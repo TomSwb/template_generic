@@ -39,7 +39,7 @@ cd PROJECT
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+...
 
 ## Author
 
